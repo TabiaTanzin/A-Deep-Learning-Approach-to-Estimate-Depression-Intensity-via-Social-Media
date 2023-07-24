@@ -6,14 +6,11 @@ Depression has emerged as a significant societal problem in recent times, leadin
 
 
 ## Dataset
-Please download the data using the link: [MDDL](https://github.com/sunlightsgy/MDDL) 
+Please download the data using the link: [Dep-Depresion](https://github.com/sunlightsgy/MDDL) 
 
 ## Pipeline 
-![pipeline](/figs/framework_depression.png) 
+![pipeline](figure/Depression.drawio (2).png) 
 
-If you find the paper/code useful for your research, please consider citing our work:
-
-Please note that the LSTM and DNN code is old, it does not support tensorflow 2+ version. 
 ## Contact
 - <a href="https://scholar.google.com/citations?user=3OJbzKYAAAAJ&hl=en">Tabia Tanzin Prama</a>, <a href="#">Md. Saiful Islam</a> and <a href="#">Md Musfique Anwar</a>.
 

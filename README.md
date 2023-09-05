@@ -15,7 +15,7 @@ Please download the data using the link: [Dep-Depresion](https://github.com/sunl
 ![pipeline](/figure/preprocess.png)
 
 ## Contact
-- <a href="https://scholar.google.com/citations?user=3OJbzKYAAAAJ&hl=en">Tabia Tanzin Prama</a>, <a href="#">Md. Saiful Islam</a> and <a href="#">Md Musfique Anwar</a>.
+- <a href="https://scholar.google.com/citations?user=3OJbzKYAAAAJ&hl=en">Tabia Tanzin Prama</a>, <a href="sohelcse@gmail.com">Md. Saiful Islam</a> and <a href="musfique.anwar@gmail.com ">Md Musfique Anwar</a>.
 
 ## Acknowledgements
 This repository makes liberal use of data repositarites from 
